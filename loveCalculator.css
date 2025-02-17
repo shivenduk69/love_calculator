@@ -1,0 +1,47 @@
+.parent{
+    width: 1400px;
+    height: 760px;
+    background-color: rgb(163, 170, 64);
+    display: flex;
+
+}
+.box1{
+    height: 760px;
+    width: 450px;
+}
+.img1{
+    height: 300px;
+    width: 450px;
+    padding-top: 200px;
+    border-radius: 20px;
+}
+
+.xob1{
+    height: 400px;
+    width: 450px;
+    padding-top: 200px;
+}
+.h1{
+    color: red;
+}
+.xo1{
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.xo2{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(204, 20, 149);
+    margin-left: 30px;
+    border-radius: 20px;
+    color: white;
+}
+.img2{
+    height: 300px;
+    width: 450px;
+    border-radius: 20px;
+    padding-top: 200px;
+}
